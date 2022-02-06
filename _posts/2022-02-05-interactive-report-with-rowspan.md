@@ -1,14 +1,16 @@
 ---
-layout: post
 title: Oracle Apex Interactive Report with rowspan
 subtitle: How to set a dynamic rowspan (Grouped rows) based on an analytic query
-tags: [apex, javascript]
-comments: true
+categories:
+  - Blog
+tags:
+  - apex
+  - JavaScript
 ---
 
 Let's take a look on the resulting Interactive Report (IR). Grouping is done on Field 1.
 
-![ir-with-rowspan](..\assets\img\posts\ir-with-rowspan.png)
+![ir-with-rowspan](..\assets\images\posts\ir-with-rowspan.png)
 
 Setup a IR with the following sample query:
 
