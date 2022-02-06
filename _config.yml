@@ -18,7 +18,7 @@ subtitle: What else?
 name: "Mark Lenzer"
 email: ich@madmexx.com
 description: "Brain package for Oracle Apex related Stuff. Javascript, PL/SQL & Oracle Databases"
-url: "https://blog.madmexx.com"
+url: "https://madmexx2002.github.io" # "https://blog.madmexx.com"
 repository: "madmexx2002/madmexx2002.github.io"
 teaser: /assets/images/matrix-me.jpg
 twitter_username: username
@@ -26,6 +26,7 @@ github_username: madmexx2002
 minimal_mistakes_skin: default
 search: true
 date_format: "%-d. %B %Y"
+og_image: /assets/images/
 
 # Build settings
 markdown: kramdown
