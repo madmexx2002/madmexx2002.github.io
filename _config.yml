@@ -25,6 +25,7 @@ twitter_username: username
 github_username: madmexx2002
 minimal_mistakes_skin: default
 search: true
+date_format: "%-d. %B %Y"
 
 # Build settings
 markdown: kramdown
