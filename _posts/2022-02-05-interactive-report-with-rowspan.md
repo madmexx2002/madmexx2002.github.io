@@ -10,7 +10,7 @@ tags:
 
 Let's take a look on the resulting Interactive Report (IR). Grouping is done on Field 1.
 
-![ir-with-rowspan](media\ir-with-rowspan.png)
+![ir-with-rowspan](/assets/images/ir-with-rowspan.png)
 
 Setup a IR with the following sample query:
 
