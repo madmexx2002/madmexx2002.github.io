@@ -1,9 +1,12 @@
 ---
-layout: post
-title: Oracle Apex Subscription Button
+title: "Oracle Apex Subscription Button"
 subtitle: How to create a Subscription or Like Button
-tags: [apex, javascript, pl/sql]
-comments: true
+categories:
+  - Blog
+tags:
+  - apex
+  - JavaScript
+  - PL/SQL
 ---
 
 ### Can we have a like or subscribe Button on an Oracle Apex Page? Yes, we can...
