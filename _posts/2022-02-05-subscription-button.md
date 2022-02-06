@@ -11,7 +11,7 @@ tags:
 
 ### Can we have a like or subscribe Button on an Oracle Apex Page? Yes, we can...
 
-![subscription button](assets\images\subscription.png)
+![subscription button](/assets/images/subscription.png)
 
 ------
 
